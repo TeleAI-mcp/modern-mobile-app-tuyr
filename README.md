@@ -1,2 +1,3 @@
-# modern-mobile-app-tuyr
-A mobile application for modern development workflows
+# Modern Mobile App Tuyr
+
+A mobile application for modern development workflows.
